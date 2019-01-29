@@ -1,5 +1,5 @@
 # Your code goes here!
 class Dog 
   
-  Dog.n
+max =  Dog.new('max')
 end 
