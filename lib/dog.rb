@@ -9,7 +9,7 @@ class Dog
     @name 
   end 
   
-  def bark=("woof!")
+  def bark="woof!"
     @bark = "woof!"
   end
   
